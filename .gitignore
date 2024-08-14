@@ -1,1 +1,25 @@
 .vs/
+# 编译输出目录
+Debug/
+
+
+# 编译生成的中间文件
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.out
+*.dll
+
+# 项目生成的文件
+*.aps
+*.ncb
+*.suo
+*.pch
+
+# 调试文件
+*.idb
+
+# 生成的日志文件
+*.log
+*.tlog
